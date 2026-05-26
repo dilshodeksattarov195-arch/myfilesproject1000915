@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchfpdate",
+        "uuid": 1228845,
+        "checksum": "pnowig"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
